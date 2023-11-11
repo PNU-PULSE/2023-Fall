@@ -6,6 +6,6 @@
 |2주차|수학|[PULSE_23_2_2주차](https://github.com/PNU-PULSE/2023-Fall/blob/main/%EC%9E%90%EB%A3%8C/PULSE_23_2_2%EC%A3%BC%EC%B0%A8.pdf)|
 |3주차|자료구조|[PULSE_23_2_3주차](https://github.com/PNU-PULSE/2023-Fall/blob/main/%EC%9E%90%EB%A3%8C/PULSE_23_2_3%EC%A3%BC%EC%B0%A8.PDF)|
 |5주차|그리디|[PULSE_23_2_5주차](https://github.com/PNU-PULSE/2023-Fall/blob/main/%EC%9E%90%EB%A3%8C/PULSE_23_2_5%EC%A3%BC%EC%B0%A8.pdf)|
-|10주차|동적 계획법|[PULSE_23_2_10주차](https://github.com/PNU-PULSE/2023-Fall/blob/main/%EC%9E%90%EB%A3%8C/PULSE_23_2_5%EC%A3%BC%EC%B0%A8.pdf)|
+|10주차|동적 계획법|[PULSE_23_2_10주차](https://github.com/PNU-PULSE/2023-Fall/blob/main/%EC%9E%90%EB%A3%8C/PULSE_23_2_10%EC%A3%BC%EC%B0%A8.pdf)|
 
 BOJ PULSE 그룹 링크 :  https://www.acmicpc.net/group/368
